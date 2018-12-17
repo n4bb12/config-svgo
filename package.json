@@ -1,11 +1,10 @@
 {
   "name": "@n4bb12/config-svgo",
   "version": "1.0.1",
-  "description": "Shareable SVGO configuration for my projects",
+  "description": "SVGO configuration for optimizing SVG icons",
   "keywords": [
     "config",
     "preset",
-    "shareable",
     "svgo"
   ],
   "homepage": "https://github.com/n4bb12/config-svgo/blob/master/README.md",
